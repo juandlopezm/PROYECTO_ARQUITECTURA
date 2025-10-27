@@ -4,11 +4,11 @@ Este repositorio contiene los archivos correspondientes a la entrega académica 
 
 ## Contenido del repositorio
 
-- **Modelo_C4.pptx / .pdf**  
+- **Modelo_C4.pptx**  
   Diapositiva que presenta la arquitectura del sistema usando el modelo C4.  
   Se describen los niveles de contexto, contenedores, componentes y relaciones principales del sistema.
 
-- **Articulo_Cientifico.pptx / .pdf**  
+- **Articulo_Cientifico.pptx**  
   Diapositiva que resume un artículo científico sobre arquitectura de software.  
   Contiene el análisis de su relevancia, metodología, resultados e impacto académico.
 
@@ -17,7 +17,7 @@ Este repositorio contiene los archivos correspondientes a la entrega académica 
 
 ## Instrucciones de uso
 
-1. Abrir las diapositivas en formato PDF o PowerPoint para revisar las presentaciones.  
+1. Abrir las diapositivas en formato PDF para revisar las presentaciones.  
 2. Consultar el archivo Excel para verificar las calificaciones y observaciones registradas.  
 
 ## Autor
